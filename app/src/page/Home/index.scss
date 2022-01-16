@@ -1,0 +1,10 @@
+.home {
+  height: 300px;
+  width: 100%;
+  padding: 20px;
+  &-box {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+  }
+}

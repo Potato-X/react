@@ -1,0 +1,1 @@
+export const devPublic = process.env.NODE_ENV==='development'?'http://10.1.2.186:3080':''
